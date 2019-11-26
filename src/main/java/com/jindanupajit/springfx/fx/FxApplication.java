@@ -9,7 +9,7 @@ import javafx.scene.layout.VBox;
 import javafx.scene.web.WebView;
 import javafx.stage.Stage;
 import javafx.stage.WindowEvent;
-
+//TODO: https://docs.oracle.com/javase/8/javafx/embedded-browser-tutorial/js-javafx.htm
 public class FxApplication extends Application implements Runnable{
 
     private String[] args;
